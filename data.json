@@ -1,0 +1,246 @@
+{
+  "data": {
+      "column_order": [
+          "标题",
+          "标签",
+          "链接",
+          "简要"
+      ],
+      "rows": [
+          {
+              "page_id": "kvpTyp7bT3FzTVd62eCukk",
+              "data": {
+                  "标题": {
+                      "type": "primary",
+                      "value": "admin-work"
+                  },
+                  "标签": {
+                      "type": "multi_select",
+                      "value": "🚀github"
+                  },
+                  "链接": {
+                      "type": "url",
+                      "value": "https://github.com/qingqingxuan/admin-work"
+                  },
+                  "简要": {
+                      "type": "text",
+                      "value": "Vue3 和 NaiveUI 的完美结合—Admin Work"
+                  }
+              }
+          },
+          {
+              "page_id": "C8cyEit8ZHU2zbawGKsYU",
+              "data": {
+                  "标题": {
+                      "type": "primary",
+                      "value": "23年了，icon 方案该升级了"
+                  },
+                  "标签": {
+                      "type": "multi_select",
+                      "value": "🧠学习,⛏️掘金"
+                  },
+                  "链接": {
+                      "type": "url",
+                      "value": "https://juejin.cn/post/7189164727485300793"
+                  },
+                  "简要": {
+                      "type": "text",
+                      "value": "icon 方案"
+                  }
+              }
+          },
+          {
+              "page_id": "qgPFTxZeL3kw9zjLMZmtQV",
+              "data": {
+                  "标题": {
+                      "type": "primary",
+                      "value": "程序员练级攻略"
+                  },
+                  "标签": {
+                      "type": "multi_select",
+                      "value": "🧠学习"
+                  },
+                  "链接": {
+                      "type": "url",
+                      "value": "https://coolshell.cn/articles/18360.html"
+                  },
+                  "简要": {
+                      "type": "text",
+                      "value": "提升程序员内功"
+                  }
+              }
+          },
+          {
+              "page_id": "gygnfMh9iMUfZmFSiYFgEu",
+              "data": {
+                  "标题": {
+                      "type": "primary",
+                      "value": "icones"
+                  },
+                  "标签": {
+                      "type": "multi_select",
+                      "value": "工具,前端"
+                  },
+                  "链接": {
+                      "type": "url",
+                      "value": "https://icones.netlify.app/"
+                  },
+                  "简要": {
+                      "type": "text",
+                      "value": "icon 网站"
+                  }
+              }
+          },
+          {
+              "page_id": "8kVT9kkVMq4gUvor6syKCh",
+              "data": {
+                  "标题": {
+                      "type": "primary",
+                      "value": "SQLKiller"
+                  },
+                  "标签": {
+                      "type": "multi_select",
+                      "value": "🤖AI"
+                  },
+                  "链接": {
+                      "type": "url",
+                      "value": "https://www.sqlkiller.com/"
+                  },
+                  "简要": {
+                      "type": "text",
+                      "value": "利用 AI 生成 SQL 语句"
+                  }
+              }
+          },
+          {
+              "page_id": "se4JBEGPW9JaSJyVa7ZryV",
+              "data": {
+                  "标题": {
+                      "type": "primary",
+                      "value": "深言达意"
+                  },
+                  "标签": {
+                      "type": "multi_select",
+                      "value": "🤖AI"
+                  },
+                  "链接": {
+                      "type": "url",
+                      "value": "https://shenyandayi.com/"
+                  },
+                  "简要": {
+                      "type": "text",
+                      "value": "寻觅更好的词语"
+                  }
+              }
+          },
+          {
+              "page_id": "rCA42J4aTeLYwNPS9T5Rmg",
+              "data": {
+                  "标题": {
+                      "type": "primary",
+                      "value": "BibiGPT"
+                  },
+                  "标签": {
+                      "type": "multi_select",
+                      "value": "🤖AI"
+                  },
+                  "链接": {
+                      "type": "url",
+                      "value": "https://b.jimmylv.cn/"
+                  },
+                  "简要": {
+                      "type": "text",
+                      "value": "一键总结音频内容"
+                  }
+              }
+          },
+          {
+              "page_id": "pJPWKs6UTWRgFc9P5fXWap",
+              "data": {
+                  "标题": {
+                      "type": "primary",
+                      "value": "Claude"
+                  },
+                  "标签": {
+                      "type": "multi_select",
+                      "value": "🤖AI"
+                  },
+                  "链接": {
+                      "type": "url",
+                      "value": "https://claude.ai/login"
+                  },
+                  "简要": {
+                      "type": "text",
+                      "value": "Google AI 工具"
+                  }
+              }
+          },
+          {
+              "page_id": "cR7YE7jJRRcrbSeZd3UpcA",
+              "data": {
+                  "标题": {
+                      "type": "primary",
+                      "value": "ChatGPT"
+                  },
+                  "标签": {
+                      "type": "multi_select",
+                      "value": "🤖AI"
+                  },
+                  "链接": {
+                      "type": "url",
+                      "value": "https://chat.openai.com/auth/login"
+                  },
+                  "简要": {
+                      "type": "text",
+                      "value": "chatGPT"
+                  }
+              }
+          },
+          {
+              "page_id": "sMVmGPdUQ4GbUXyhKC2wd5",
+              "data": {
+                  "标题": {
+                      "type": "primary",
+                      "value": "chatPDF"
+                  },
+                  "标签": {
+                      "type": "multi_select",
+                      "value": "🤖AI"
+                  },
+                  "链接": {
+                      "type": "url",
+                      "value": "https://www.chatpdf.com/"
+                  },
+                  "简要": {
+                      "type": "text",
+                      "value": "chat with PDF"
+                  }
+              }
+          },
+          {
+              "page_id": "knvmyv82ZTn1mMM2NR9QX4",
+              "data": {
+                  "标题": {
+                      "type": "primary",
+                      "value": "New Yorker"
+                  },
+                  "标签": {
+                      "type": "multi_select",
+                      "value": "📖阅读"
+                  },
+                  "链接": {
+                      "type": "url",
+                      "value": "https://www.newyorker.com/"
+                  },
+                  "简要": {
+                      "type": "text",
+                      "value": ""
+                  }
+              }
+          }
+      ]
+  },
+  "requestId": "1-64ffd7fa-2544e0a5b66f65f389ef8059"
+}
+
+
