@@ -79,7 +79,7 @@
                     },
                     "标签": {
                         "type": "multi_select",
-                        "value": "工具,前端"
+                        "value": "🛠️工具,🌞前端"
                     },
                     "链接": {
                         "type": "url",
@@ -258,8 +258,92 @@
                         "value": "tabnine"
                     }
                 }
+            },
+            {
+                "page_id": "tm8Cnvh31HnKPjgpKTi98g",
+                "data": {
+                    "标题": {
+                        "type": "primary",
+                        "value": "少数派"
+                    },
+                    "标签": {
+                        "type": "multi_select",
+                        "value": "😃常用"
+                    },
+                    "链接": {
+                        "type": "url",
+                        "value": "https://sspai.com/"
+                    },
+                    "简要": {
+                        "type": "text",
+                        "value": ""
+                    }
+                }
+            },
+            {
+                "page_id": "vD8oRDebNgE6EQatnchoVH",
+                "data": {
+                    "标题": {
+                        "type": "primary",
+                        "value": "机核网"
+                    },
+                    "标签": {
+                        "type": "multi_select",
+                        "value": "😃常用"
+                    },
+                    "链接": {
+                        "type": "url",
+                        "value": "https://www.gcores.com/"
+                    },
+                    "简要": {
+                        "type": "text",
+                        "value": ""
+                    }
+                }
+            },
+            {
+                "page_id": "94tMtvp94pgMriDr3zhqh7",
+                "data": {
+                    "标题": {
+                        "type": "primary",
+                        "value": "v-scale-screen"
+                    },
+                    "标签": {
+                        "type": "multi_select",
+                        "value": "Vue,🖥️大屏,🚀github"
+                    },
+                    "链接": {
+                        "type": "url",
+                        "value": "https://github.com/Alfred-Skyblue/v-scale-screen"
+                    },
+                    "简要": {
+                        "type": "text",
+                        "value": "大屏自适应方案"
+                    }
+                }
+            },
+            {
+                "page_id": "v65g26G4YrWfosdS89ecJV",
+                "data": {
+                    "标题": {
+                        "type": "primary",
+                        "value": "极客时间"
+                    },
+                    "标签": {
+                        "type": "multi_select",
+                        "value": "🧠学习"
+                    },
+                    "链接": {
+                        "type": "url",
+                        "value": "https://time.geekbang.org/"
+                    },
+                    "简要": {
+                        "type": "text",
+                        "value": ""
+                    }
+                }
             }
         ]
     },
-    "requestId": "1-65001577-0ee0e7dfd35d36c49e0be240"
+    "requestId": "1-650108e3-21af6cd1e6d8997c5e197b2a"
 }
