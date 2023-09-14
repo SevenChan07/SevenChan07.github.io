@@ -342,8 +342,50 @@
                         "value": ""
                     }
                 }
+            },
+            {
+                "page_id": "umoq4MQVxJ7rkYtu9uCPL2",
+                "data": {
+                    "标题": {
+                        "type": "primary",
+                        "value": "英语语法"
+                    },
+                    "标签": {
+                        "type": "multi_select",
+                        "value": "🧠学习"
+                    },
+                    "链接": {
+                        "type": "url",
+                        "value": "https://hzpt-inet-club.github.io/english-note/"
+                    },
+                    "简要": {
+                        "type": "text",
+                        "value": ""
+                    }
+                }
+            },
+            {
+                "page_id": "opkowXke6vnfY4PgYAZu4i",
+                "data": {
+                    "标题": {
+                        "type": "primary",
+                        "value": "V2EX"
+                    },
+                    "标签": {
+                        "type": "multi_select",
+                        "value": "😃常用"
+                    },
+                    "链接": {
+                        "type": "url",
+                        "value": "https://www.v2ex.com/"
+                    },
+                    "简要": {
+                        "type": "text",
+                        "value": ""
+                    }
+                }
             }
         ]
     },
-    "requestId": "1-650108e3-21af6cd1e6d8997c5e197b2a"
+    "requestId": "1-65025a14-ce3e89d808c2958c00523954"
 }
