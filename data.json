@@ -384,8 +384,29 @@
                         "value": ""
                     }
                 }
+            },
+            {
+                "page_id": "bqBR5b7ujZ2sKP5XUb1yz5",
+                "data": {
+                    "标题": {
+                        "type": "primary",
+                        "value": "AI搜索"
+                    },
+                    "标签": {
+                        "type": "multi_select",
+                        "value": "🤖AI"
+                    },
+                    "链接": {
+                        "type": "url",
+                        "value": "https://devv.ai/"
+                    },
+                    "简要": {
+                        "type": "text",
+                        "value": "最懂程序员的 AI 搜索引擎"
+                    }
+                }
             }
         ]
     },
-    "requestId": "1-655d5325-1c03bd3c1debfd1ad52653b9"
+    "requestId": "1-655e9db7-7a246133b5a43618868d122c"
 }
